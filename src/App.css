@@ -1,0 +1,179 @@
+
+ *{
+  font-family: 'Source Sans Pro', sans-serif;
+ }
+
+ .LinkTelephasic{
+   background-color: red;
+padding-top: 2%;
+padding-right: 8%;
+padding-left: 8%;
+padding-bottom: 2%;
+margin-top: -1%;
+border-radius: 10px;
+background-color: #f3b9a0;
+ }
+
+.boton-2{
+  background-color: white;
+  border-radius: 10px;
+ padding-top: 1.5%;
+ padding-bottom: 1.5%;
+ padding-right: 4%;
+ padding-left: 4%;
+
+}
+
+
+
+.Tercero{
+float: left;
+width: 55%;
+
+height: 750px;
+
+margin-left: 10%;
+}
+
+.Cuarto{
+float: right;
+width: 25%;
+
+height: 750px;
+
+margin-right: 5%;
+}
+
+h3{
+  font-size: 150%;
+  color: grey;
+}
+
+p{
+  font-size: 120%;
+  color: grey;
+}
+
+hr{
+  margin-top: 15%;
+}
+
+.boton-1{
+  background-color: white;
+  border-radius: 3px;
+ padding-top: 4.5%;
+ padding-bottom: 4.5%;
+ padding-right: 12%;
+ padding-left: 12%;
+ margin-top: 5%;
+}
+.boton-1:hover{
+
+  color: palevioletred;
+  border-color: palevioletred;
+  cursor: pointer;
+}
+
+.boton-2:hover{
+
+  background-color: transparent;
+}
+ h1{
+   color: white;
+   margin-top: 20%;
+   font-size: 300%;
+ }
+
+ h2{
+  color: white;
+}
+.nav{
+  background-image:  linear-gradient(to right, #ea68a3, #f66d91, #fc7680, #fd8271, #f99064);
+  margin-top:  -3%;
+height: 130px;
+
+}
+
+.nav ul{
+  padding: 2%;
+}
+
+.Right-Sidebar{
+  margin-top: 7%;
+}
+
+.Left-Sidebar{
+  margin-top: 7%;
+}
+  
+.Primero{
+width: 25%;
+color: grey;
+float: left;
+height: 1000px;
+margin-left: 10%;
+margin-right: 5%;
+ }
+
+ img{
+   cursor: pointer;
+  
+ }
+
+ img:hover{
+ 
+  opacity: 0.8;
+ 
+ }
+
+ h4{
+   font-size: 170%;
+   color: palevioletred;
+ }
+
+
+ .Segundo{
+width: 55%;
+float: right;
+height: 1000px;
+margin-right: 5%;
+ }
+
+
+.Telephasic{
+  height: 750px;
+  background-image:  linear-gradient(to right, #ea68a3, #f66d91, #fc7680, #fd8271, #f99064);
+ margin-top: -19.5%;
+}
+
+.No-Sidebar{
+  height: 750px;
+
+width: 80%;
+margin-top: 10%;
+margin-right: 10%;
+margin-left: 10%;
+
+}
+
+
+
+
+ul{
+  list-style-type: none;
+  overflow: auto;
+margin-left: 11%;
+  
+}
+
+
+ul li a {
+
+  float: left;
+  position: center;
+  margin-right: 10%;
+  text-decoration: none;
+  color: white;
+  margin-top: 2%;
+  
+  }
